@@ -1,7 +1,6 @@
 ---
 name: Idea Request
 about: Suggest an idea for this project
-title: "\[IDEA\]"
 labels: Idea
 assignees: ''
 
